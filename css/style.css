@@ -2,10 +2,27 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 /* DEBUG */
-[class*="row"]{
+/* [class*="row"]{
     background-color: aqua;
     height: 100px;
 }
 [class*="col"]{
     background-color: rgb(0, 0, 0);
+} */
+#ms_d_height_h{
+    height: 100px;
+    background-color: aqua;
+}
+.ms_d_height_m {
+    height: auto;
+    background-color: rgb(0, 255, 21);
+}
+.ms_d_height_c{
+    height: 100px;
+    background-color: black;
+    border: solid rgb(255, 255, 255) 1px;
+}
+
+main{
+    padding-top: 100px;
 }
