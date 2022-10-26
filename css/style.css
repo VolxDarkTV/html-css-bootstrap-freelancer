@@ -20,6 +20,33 @@ img{
     background-color: #1abc9c;
     
 }
+.ms_avatar_image{
+    margin: 0 auto;
+    max-width: 300px;
+}
+.ms_main_txt{
+    font-size: 50px;
+}
+.ms_txt_color{
+    color: #fff;
+    text-align: center;
+}
+.ms_star_bar{
+    width: 300px;
+    height: 8px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.ms_star{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 30px;
+    color: #fff;
+    background-color: #1abc9c;
+}
+
+
 /* Footer */
 .ms_container_footer_top_color{
     background-color: #3a546d;
