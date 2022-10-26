@@ -3,9 +3,21 @@ body{
 }
 
 #ms_d_height_h{
-    min-height: 100px;
+    min-height: auto;
     background-color: aqua;
 }
+
+/* Header */
+.ms_link_color{
+    color: black;
+}
+
+/* Main */
+.ms_container_color{
+    background-color: blue;
+    
+}
+
 .ms_d_height_m {
     border: solid red 1px;
 }
@@ -17,7 +29,7 @@ body{
 }
 
 main{
-    padding-top: 100px;
+    padding-top: 40px;
 }
 img{
     width: 100%;
