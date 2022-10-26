@@ -2,11 +2,14 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-#ms_d_height_h{
-    min-height: auto;
-    background-color: aqua;
-}
 
+main{
+    padding-top: 40px;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+}
 /* Header */
 .ms_link_color{
     color: black;
@@ -17,7 +20,7 @@ body{
     background-color: #1abc9c;
     
 }
-
+/* DEBUG */
 .ms_d_height_m {
     border: solid red 1px;
 }
@@ -28,10 +31,3 @@ body{
     border: solid rgb(255, 255, 255) 1px;
 }
 
-main{
-    padding-top: 40px;
-}
-img{
-    width: 100%;
-    border-radius: 20px;
-}
