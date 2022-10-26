@@ -24,7 +24,7 @@ main{
 .ms_main_txt{
     font-size: 50px;
 }
-.ms_txt_color{
+.ms_submain_txt_color{
     color: #fff;
     text-align: center;
 }
@@ -74,7 +74,10 @@ main{
     color: #2c3e50;
     background-color: #ffffff;
 }
-
+/* Text */
+.ms_p_text{
+    color: #fff;
+}
 
 /* Footer */
 .ms_container_footer_top_color{
