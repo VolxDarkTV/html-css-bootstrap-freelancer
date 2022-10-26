@@ -6,10 +6,7 @@ body{
 main{
     padding-top: 40px;
 }
-img{
-    width: 100%;
-    border-radius: 20px;
-}
+
 /* Header */
 .ms_link_color{
     color: black;
@@ -31,19 +28,49 @@ img{
     color: #fff;
     text-align: center;
 }
-.ms_star_bar{
+
+/* Light TEXT */
+.ms_light_text{
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+}
+/* Dark Text */
+.ms_dark_text{
+    font-size: 32px;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* Light Star */
+.ms_light_star_bar{
     width: 300px;
     height: 8px;
     background-color: #fff;
     border-radius: 20px;
 }
-.ms_star{
+.ms_light_star{
     width: 20px;
     height: 20px;
     border-radius: 50%;
     padding: 30px;
     color: #fff;
     background-color: #1abc9c;
+}
+/* Dark Star */
+.ms_dark_star_bar{
+    width: 300px;
+    height: 8px;
+    background-color: #2c3e50;
+    border-radius: 20px;
+}
+.ms_dark_star{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 30px;
+    color: #2c3e50;
+    background-color: #ffffff;
 }
 
 
